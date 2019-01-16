@@ -6,3 +6,6 @@
 
 ipt <- installed.packages()
 nrow(ipt)
+
+ipt
+
